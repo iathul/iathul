@@ -1,5 +1,8 @@
 ### Hi there, I am Athul Joy 👋
 
+### 🔭 I’m budding Fullstack Developer
+
+![image](https://github.com/iathul/iathul/blob/master/Blog-Gif.gif)
 
 <!--
 **iathul/iathul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
