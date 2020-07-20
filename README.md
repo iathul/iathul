@@ -1,6 +1,6 @@
 ### Hi there, I am Athul Joy 👋
 
-### 🔭 I’m budding Fullstack Developer
+### 🔭 I’m a budding Fullstack Developer
 
 ![image](https://github.com/iathul/iathul/blob/master/Blog-Gif.gif)
 
