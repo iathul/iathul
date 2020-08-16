@@ -1,10 +1,13 @@
    
 
-### Hi there, I am Athul Joy 👋, I’m a Fullstack Developer
+### Hi there, I am Athul Joy 👋,  I’m a Fullstack Developer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iathul/iathul/master/Blog-Gif.gif" width="50%"/></br>
+</p>
 
 <!-- ### 🔭 I’m a budding Fullstack Developer  -->
 
-- 🔭 I’m currently working on  **File Transfer Application**
+- 🔭 I’m currently working on  **File Transfer Application using React and NodeJS**
 - 🌱 I’m currently learning **React and Go**
 
 
