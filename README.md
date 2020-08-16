@@ -22,7 +22,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iathul">
+  <img src="https://github-readme-stats.vercel.app/api?username=iathul"> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iathul&layout=compact&hide=html" alt="iathul"/>
 </p>
 
 <p align="center">
