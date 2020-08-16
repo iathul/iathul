@@ -22,6 +22,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iathul">
+</p>
+
+<p align="center">
   <!-- <img src="https://raw.githubusercontent.com/arvndvv/arvndvv/master/thumbs-up.gif" width="30%"/></br> -->
   <mark align="center"><b> 👋👋 Thanks for visiting! 👋👋 </b></mark>
 </p>
