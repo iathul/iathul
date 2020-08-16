@@ -13,13 +13,19 @@
 ## Reach Me
 <p align="left">
     <a  href="https://in.linkedin.com/in/athul-joy" title="LinkedIn">
-        <img src="https://raw.githubusercontent.com/iathul/iathul/master/linkedin.png" width="50" height="40"/>
+        <img src="https://raw.githubusercontent.com/iathul/iathul/master/linkedin.png" width="55" height="40"/>
     </a>
     <a href="mailto: a.athuljoy@gmail.com" title="Gmail">
         <img src="https://raw.githubusercontent.com/iathul/iathul/master/gmail.png" width="40" height="40"/>
     </a>
 
 </p>
+
+<p align="center">
+  <!-- <img src="https://raw.githubusercontent.com/arvndvv/arvndvv/master/thumbs-up.gif" width="30%"/></br> -->
+  <mark align="center"><b> 👋👋 Thanks for visiting! 👋👋 </b></mark>
+</p>
+
 
 
 
