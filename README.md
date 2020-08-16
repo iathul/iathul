@@ -18,8 +18,9 @@
     <a href="mailto: a.athuljoy@gmail.com" title="Gmail">
         <img src="https://raw.githubusercontent.com/iathul/iathul/master/gmail.png" width="40" height="40"/>
     </a>
-
 </p>
+
+## GitHub Status <br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iathul"> <br>
