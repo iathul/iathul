@@ -30,6 +30,7 @@
 
 <p align="center">
   <!-- <img src="https://raw.githubusercontent.com/arvndvv/arvndvv/master/thumbs-up.gif" width="30%"/></br> -->
+  <img src="https://komarev.com/ghpvc/?username=iathul&label=Profile%20views&color=red&style=flat" alt="iathul" /> <br>
   <mark align="center"><b> 👋👋 Thanks for visiting! 👋👋 </b></mark>
 </p>
 
