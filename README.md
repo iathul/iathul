@@ -39,7 +39,7 @@
 <p align="left">
     <a  href="https://in.linkedin.com/in/athul-joy" title="LinkedIn">
         <img src="https://raw.githubusercontent.com/iathul/iathul/master/linkedin.png" width="40" height="40"/>
-    </a> &nbsp;
+    </a>
     <a href="mailto: a.athuljoy@gmail.com" title="Gmail">
         <img src="https://raw.githubusercontent.com/iathul/iathul/master/gmail.png" width="40" height="40"/>
     </a>
