@@ -10,6 +10,30 @@
 - 🔭 I’m currently working on  **File Transfer Application using React and NodeJS**
 - 🌱 I’m currently learning **React and Go**
 
+<br>
+<h2>ℹ️ &nbsp;Github Info</h2>
+	
+  <summary><b>🔎 Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iathul&theme=github_dark" alt="iathul" align = "center"/></p>
+
+  <summary><b>⚡ Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=iathul&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="iathul" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iathul&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="iathul" align = "center"/></p>
+
+ <summary><b>🔥 Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iathul&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="iathul" /></p>
+
+ <summary><b>🏆 Achievements</b></summary>
+<p align="center"> <a href="https://github.com/snowwhite-boss"><img src="https://github-profile-trophy.vercel.app/?username=iathul&margin-w=5&theme=radical" alt="iathul" /></a> </p>
+
+
+<!-- ## GitHub Status <br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iathul"> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iathul&layout=compact&hide=html" alt="iathul"/>
+</p> -->
+
 ## Reach Me
 
 <p align="left">
@@ -19,13 +43,6 @@
     <a href="mailto: a.athuljoy@gmail.com" title="Gmail">
         <img src="https://raw.githubusercontent.com/iathul/iathul/master/gmail.png" width="40" height="40"/>
     </a>
-</p>
-
-## GitHub Status <br>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iathul"> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iathul&layout=compact&hide=html" alt="iathul"/>
 </p>
 
 <p align="center">
