@@ -1,8 +1,8 @@
 
 ### Hi there, I am Athul Joy 👋,  I like to code 
 
-<p align="left" style="padding-top:10px">
-  <img src="https://raw.githubusercontent.com/iathul/iathul/master/code.gif" width="49%" height="14%"/>  
+<p align="center" style="padding-top:10px">
+  <img src="https://raw.githubusercontent.com/iathul/iathul/master/code1.gif" width="65%" height="15%"/>  
 </p> </br>
 
 <!-- ### 🔭 I’m a Fullstack Developer  -->
