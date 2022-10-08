@@ -1,8 +1,8 @@
 
-### Hi there, I am Athul Joy 👋,  I like to code 
+### Hi there, I am Athul Joy 👋,  I like to code
 
 <p align="center" style="padding-top:10px">
-  <img src="https://raw.githubusercontent.com/iathul/iathul/master/code1.gif" width="65%" height="15%"/>  
+  <img src="https://github.com/iathul/iathul/blob/master/code1.gif" width="65%" height="15%"/>
 </p> </br>
 
 <!-- ### 🔭 I’m a Fullstack Developer  -->
@@ -12,7 +12,7 @@
 
 <br>
 <h2>ℹ️ &nbsp;Github Info</h2>
-	
+
   <summary><b>🔎 Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iathul&theme=github_dark" alt="iathul" align = "center"/></p>
 
