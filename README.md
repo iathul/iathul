@@ -2,11 +2,10 @@
 ### Hi there, I am Athul Joy 👋,  I like to code
 
 <!-- <p align="center" style="padding-top:10px">
-  <!-- <img src="https://github.com/iathul/iathul/blob/master/code1.gif" width="65%" height="15%"/> -->
-
+  <img src="https://github.com/iathul/iathul/blob/master/code1.gif" width="65%" height="15%"/>
 </p> </br> -->
 
-![Gif](https://raw.github.com/iathul/iathul/master/code1.gif){:height="15%" width="65%"}
+![Gif](https://raw.github.com/iathul/iathul/master/code1.gif){:height="15%" width="65%"}.
 
 <!-- ### 🔭 I’m a Fullstack Developer  -->
 
