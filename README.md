@@ -5,7 +5,7 @@
   <img src="https://github.com/iathul/iathul/blob/master/code1.gif" width="65%" height="15%"/>
 </p> </br> -->
 
-![Gif](https://raw.github.com/iathul/iathul/master/code1.gif){:height="15%" width="65%"}.
+![Gif](https://raw.github.com/iathul/iathul/master/code1.gif)
 
 <!-- ### 🔭 I’m a Fullstack Developer  -->
 
