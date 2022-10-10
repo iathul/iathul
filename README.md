@@ -2,8 +2,7 @@
 ### Hi there, I am Athul Joy 👋,  I like to code
 
 <p align="center" style="padding-top:10px">
-  <!-- <img src="https://github.com/iathul/iathul/blob/master/code1.gif" width="65%" height="15%"/> -->
-  ![Gif](https://github.com/iathul/iathul/blob/master/code1.gif?raw=true)
+  <img src="https://github.com/iathul/iathul/blob/master/code1.gif" width="65%" height="15%"/>
 </p> </br>
 
 <!-- ### 🔭 I’m a Fullstack Developer  -->
