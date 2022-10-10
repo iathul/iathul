@@ -40,10 +40,10 @@
 
 <p align="left">
     <a  href="https://in.linkedin.com/in/athul-joy" title="LinkedIn">
-        <img src="linkedin.png" width="40" height="40"/>
+        <img src="/linkedin.png" width="40" height="40"/>
     </a>
     <a href="mailto: a.athuljoy@gmail.com" title="Gmail">
-        <img src="gmail.png" width="40" height="40"/>
+        <img src="/gmail.png" width="40" height="40"/>
     </a>
 </p>
 
