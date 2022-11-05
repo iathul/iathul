@@ -9,8 +9,8 @@
 
 <!-- ### 🔭 I’m a Fullstack Developer  -->
 
-- 🔭 I’m currently working on  **File Transfer Application using React and NodeJS**
-- 🌱 I’m currently learning **React and Go**
+<!-- - 🔭 I’m currently working on  **File Transfer Application using React and NodeJS** -->
+- 🌱 I’m currently learning the fundamentals of **Backend development** and **Javascript**.
 
 <br>
 <h2>ℹ️ &nbsp;Github Info</h2>
