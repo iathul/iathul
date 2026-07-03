@@ -1,67 +1,54 @@
-
-### Hi there, I am Athul Joy 👋,  I like to code
-
-<!-- <p align="center" style="padding-top:10px">
-  <img src="https://github.com/iathul/iathul/blob/master/code1.gif" width="65%" height="15%"/>
-</p> </br> -->
-
-![Gif](https://raw.github.com/iathul/iathul/master/code1.gif)
-
-<!-- ### 🔭 I’m a Fullstack Developer  -->
-
-<!-- - 🔭 I’m currently working on  **File Transfer Application using React and NodeJS** -->
-- 🌱 I’m currently learning the fundamentals of **Backend development** and **Javascript**.
-
-<br>
-<h2>ℹ️ &nbsp;Github Info</h2>
-
-  <summary><b>🔎 Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iathul&theme=github_dark" alt="iathul" align = "center"/></p>
-
-  <summary><b>⚡ Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=iathul&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="iathul" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iathul&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="iathul" align = "center"/></p>
-
- <summary><b>🔥 Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iathul&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="iathul" /></p>
-
- <summary><b>🏆 Achievements</b></summary>
-<p align="center"> <a href="https://github.com/iathul"><img src="https://github-profile-trophy.vercel.app/?username=iathul&margin-w=5&theme=radical" alt="iathul" /></a> </p>
-
-
-<!-- ## GitHub Status <br>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iathul"> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iathul&layout=compact&hide=html" alt="iathul"/>
-</p> -->
-
-## Reach Me
-
-<p align="left">
-    <a href='https://www.linkedin.com/in/athul-joy/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=black&color=black'/></a>
-    <a href='mailto: a.athuljoy@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=black&color=black'/></a>
-</p>
+<h1 align="center">Athul Joy</h1>
+<h3 align="center">Backend Developer &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; API Design &nbsp;·&nbsp; IoT & Blockchain</h3>
 
 <p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/arvndvv/arvndvv/master/thumbs-up.gif" width="30%"/></br> -->
-  <img src="https://komarev.com/ghpvc/?username=iathul&label=Profile%20views&color=red&style=flat" alt="iathul" /> <br>
-  <mark align="center"><b> 👋👋 Thanks for visiting! 👋👋 </b></mark>
+  <a href="https://athuljoy.in" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/athuljoy.in-000000?style=flat-square&logo=About.me&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/athul-joy/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:a.athuljoy@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<!-- ![image](https://github.com/iathul/iathul/blob/master/Blog-Gif.gif) -->
+---
 
-<!--
-**iathul/iathul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with 5+ years of experience designing and shipping API services and automation systems. I work across IoT, blockchain, and enterprise domains — building backend tools that run reliably at scale in active production.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat-square&logo=mysql&logoColor=white)
+
+**Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-333333?style=flat-square&logo=fastify&logoColor=white)
+![Django](https://img.shields.io/badge/Django-333333?style=flat-square&logo=django&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iathul&label=Profile%20views&color=333333&style=flat-square" alt="iathul"/>
+</p>
