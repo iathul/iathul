@@ -46,9 +46,3 @@ Backend Developer with 5+ years of experience designing and shipping API service
 ![AWS](https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iathul&label=Profile%20views&color=333333&style=flat-square" alt="iathul"/>
-</p>
